@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="eye" size="1.000000 1.000000" />
+    <ImageTarget name="heart" size="1.000000 1.000000" />
+    <ImageTarget name="brain" size="1.000000 1.000000" />
+    <ImageTarget name="hati" size="1.000000 1.000000" />
+    <ImageTarget name="intestines" size="1.000000 1.000000" />
+    <ImageTarget name="kidney" size="1.000000 1.000000" />
+    <ImageTarget name="stomach" size="1.000000 1.000000" />
+    <ImageTarget name="hand" size="1.000000 1.000000" />
+    <ImageTarget name="foot" size="1.000000 1.000000" />
+    <ImageTarget name="ear" size="1.000000 1.000000" />
+    <ImageTarget name="nose" size="1.000000 1.000000" />
+    <ImageTarget name="mouth" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
